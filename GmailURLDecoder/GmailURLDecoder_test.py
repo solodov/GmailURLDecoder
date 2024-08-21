@@ -1,7 +1,7 @@
 import base64
 import unittest
 
-from .GmailURLDecoder import GmailURLDecoder
+from GmailURLDecoder import GmailURLDecoder
 
 
 def decode(encoded_thread_id):
